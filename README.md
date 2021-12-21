@@ -2,7 +2,7 @@
 Swift Coffee Shop App
 
 
-Application to place an order for various drinks
+iOS Application to place an order for various drinks at a coffee shop
 
 Extra Features:
 - Size selection for the drinks
